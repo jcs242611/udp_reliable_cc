@@ -18,7 +18,7 @@ python3 p1_client.py <SERVER_IP> <SERVER_PORT>
 
 Running server: 
 ```bash
-python3 p2_server.py <SERVER_IP> <SERVER_PORT> <FAST_RECOVERY_BOOL>
+python3 p2_server.py <SERVER_IP> <SERVER_PORT>
 ```
 Running client:
 ```bash
