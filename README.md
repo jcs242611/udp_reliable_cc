@@ -1,5 +1,7 @@
 # Simple File Transfer protocol using UDP sockets
 
+Add a dummy text file named "send_file.txt" in the same folder
+
 
 ## P1 Files (implements reliability)
 
